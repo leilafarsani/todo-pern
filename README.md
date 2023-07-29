@@ -1,1 +1,6 @@
 # todo-pern
+
+stack 
+
+- PSQL
+  
