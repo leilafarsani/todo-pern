@@ -3,4 +3,7 @@
 stack 
 
 - PSQL
+- Express
+- React
+- Node
   
